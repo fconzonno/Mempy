@@ -1,0 +1,20 @@
+[
+    {
+        "Nombre": "fede",
+        "Edad": "22",
+        "Genero": [
+            "Masculino"
+        ],
+        "Dificultad": "Nivel 1",
+        "Fecha": "24/06/2021",
+        "Hora": "01:58:48",
+        "Puntaje": 0,
+        "Carteles": true,
+        "Imagenes": true,
+        "CantJugado": 0,
+        "Estado": "",
+        "NombreEvento": "",
+        "NumeroPartida": 0,
+        "Tablero": []
+    }
+]
